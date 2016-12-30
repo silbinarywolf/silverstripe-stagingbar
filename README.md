@@ -1,10 +1,10 @@
 # Staging Bar
 
-Adds a fixed bar to the frontend.
+Adds a navigation bar to the frontend when viewing a draft / in ?stage=Stage mode.
 
 # Screenshot
 
-[TODO]
+![stagingbar](https://cloud.githubusercontent.com/assets/3859574/21563347/99e6dca2-ced5-11e6-9b34-ee579db3920b.png)
 
 # Quick Install
 
