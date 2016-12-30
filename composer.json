@@ -1,0 +1,14 @@
+{
+	"name": "silbinarywolf/silverstripe-stagingbar",
+	"type": "silverstripe-module",
+	"description": "Adds a navigation bar to the frontend when viewing a draft / in ?stage=Stage mode.",
+	"keywords": ["silverstripe", "stage", "draft", "adminbar"],
+	"license": "BSD-3-Clause",
+	"extra": {
+		"branch-alias": {
+			"dev-master": "1.0.x-dev"
+		},
+		"installer-name": "stagingbar"
+	},
+	"minimum-stability": "dev"
+}
