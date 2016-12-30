@@ -1,0 +1,10 @@
+---
+Name: extensions
+After:
+  - 'framework/*', 'cms/*'
+---
+Injector:
+  RequestProcessor:
+    properties:
+      filters:
+        - '%$StagingBar\RequestFilter'
